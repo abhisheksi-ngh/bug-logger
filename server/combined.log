@@ -1,0 +1,32 @@
+{"level":"warn","message":"Authentication attempt without token","timestamp":"2025-06-07T13:26:40.661Z"}
+{"errorCode":"TOKEN_EXPIRED","level":"error","message":"Authentication failed: jwt expired","timestamp":"2025-06-07T13:26:40.716Z","token":"eyJhbGciOi..."}
+{"level":"error","message":"Login failed for abhishekkumarsingh018@gmail: Invalid credentials","timestamp":"2025-06-07T13:27:24.977Z"}
+{"level":"error","message":"Login failed for abhishekkumarsingh018@gmail: Invalid credentials","timestamp":"2025-06-07T13:27:26.696Z"}
+{"level":"error","message":"Login failed for abhishekkumarsingh018@gmail: Invalid credentials","timestamp":"2025-06-07T13:27:28.447Z"}
+{"level":"error","message":"Login failed for abhishekkumarsingh018@gmail: Invalid credentials","timestamp":"2025-06-07T13:27:28.644Z"}
+{"level":"error","message":"Login failed for abhishekkumarsingh018@gmail: Invalid credentials","timestamp":"2025-06-07T13:27:28.828Z"}
+{"level":"error","message":"Login failed for abhishekkumarsingh018@gmail: Invalid credentials","timestamp":"2025-06-07T13:27:29.010Z"}
+{"level":"error","message":"Login failed for abhishekkumarsingh018@gmail: Invalid credentials","timestamp":"2025-06-07T13:27:29.305Z"}
+{"level":"error","message":"Login failed for abhishekkumarsingh018@gmail: Invalid credentials","timestamp":"2025-06-07T13:27:29.971Z"}
+{"level":"error","message":"Login failed for abhishekkumarsingh018@gmail: Invalid credentials","timestamp":"2025-06-07T13:27:30.151Z"}
+{"level":"error","message":"Login failed for abhishekkumarsingh018@gmail: Invalid credentials","timestamp":"2025-06-07T13:27:30.330Z"}
+{"level":"error","message":"Login failed for abhishekkumarsingh018@gmail: Invalid credentials","timestamp":"2025-06-07T13:27:30.496Z"}
+{"level":"error","message":"Login failed for abhishekkumarsingh018@gmail: Invalid credentials","timestamp":"2025-06-07T13:27:30.676Z"}
+{"level":"error","message":"Login failed for abhishekkumarsingh018@gmail: Invalid credentials","timestamp":"2025-06-07T13:27:30.871Z"}
+{"level":"error","message":"Login failed for abhishekkumarsingh018@gmail: Invalid credentials","timestamp":"2025-06-07T13:27:31.067Z"}
+{"level":"error","message":"Login failed for abhishekkumarsingh018@gmail: Invalid credentials","timestamp":"2025-06-07T13:27:31.285Z"}
+{"level":"error","message":"Login failed for abhishekkumarsingh018@gmail: Invalid credentials","timestamp":"2025-06-07T13:27:31.486Z"}
+{"level":"error","message":"Login failed for abhishekkumarsingh018@gmail: Invalid credentials","timestamp":"2025-06-07T13:27:41.051Z"}
+{"level":"info","message":"User registered successfully: abhi@gmail","timestamp":"2025-06-07T13:28:11.854Z"}
+{"level":"info","message":"User logged in successfully: abhi@gmail","timestamp":"2025-06-07T13:28:26.207Z"}
+{"level":"warn","message":"Authentication attempt without token","timestamp":"2025-06-07T13:28:26.254Z"}
+{"level":"warn","message":"Authentication attempt without token","timestamp":"2025-06-07T13:28:26.257Z"}
+{"level":"warn","message":"Authentication attempt without token","timestamp":"2025-06-07T13:28:44.031Z"}
+{"level":"warn","message":"Authentication attempt without token","timestamp":"2025-06-07T13:28:45.729Z"}
+{"level":"warn","message":"Authentication attempt without token","timestamp":"2025-06-07T13:28:46.629Z"}
+{"level":"warn","message":"Authentication attempt without token","timestamp":"2025-06-07T13:28:54.614Z"}
+{"level":"warn","message":"Authentication attempt without token","timestamp":"2025-06-07T13:28:55.217Z"}
+{"level":"warn","message":"Authentication attempt without token","timestamp":"2025-06-07T13:28:56.409Z"}
+{"level":"warn","message":"Authentication attempt without token","timestamp":"2025-06-07T13:28:56.640Z"}
+{"level":"warn","message":"Authentication attempt without token","timestamp":"2025-06-07T13:28:58.554Z"}
+{"level":"warn","message":"Authentication attempt without token","timestamp":"2025-06-07T13:28:59.083Z"}
