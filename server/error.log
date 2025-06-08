@@ -16,3 +16,6 @@
 {"level":"error","message":"Login failed for abhishekkumarsingh018@gmail: Invalid credentials","timestamp":"2025-06-07T13:27:31.285Z"}
 {"level":"error","message":"Login failed for abhishekkumarsingh018@gmail: Invalid credentials","timestamp":"2025-06-07T13:27:31.486Z"}
 {"level":"error","message":"Login failed for abhishekkumarsingh018@gmail: Invalid credentials","timestamp":"2025-06-07T13:27:41.051Z"}
+{"errorCode":"MALFORMED_TOKEN","level":"error","message":"Authentication failed: jwt malformed","timestamp":"2025-06-07T15:59:46.483Z","token":"undefined..."}
+{"level":"error","message":"Registration failed for abhishek1h4u9r41@gmail.com: User already exists","timestamp":"2025-06-07T16:00:30.259Z"}
+{"level":"error","message":"Registration failed for abhishek@gmail.com: User already exists","timestamp":"2025-06-07T16:15:29.562Z"}
